@@ -1,0 +1,13 @@
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\obj\Debug\netcoreapp3.1\TheMovie1.csprojAssemblyReference.cache
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\obj\Debug\netcoreapp3.1\TheMovie1.AssemblyInfoInputs.cache
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\obj\Debug\netcoreapp3.1\TheMovie1.AssemblyInfo.cs
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\obj\Debug\netcoreapp3.1\TheMovie1.csproj.CoreCompileInputs.cache
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\bin\Debug\netcoreapp3.1\TheMovie1.exe
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\bin\Debug\netcoreapp3.1\TheMovie1.deps.json
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\bin\Debug\netcoreapp3.1\TheMovie1.runtimeconfig.json
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\bin\Debug\netcoreapp3.1\TheMovie1.runtimeconfig.dev.json
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\bin\Debug\netcoreapp3.1\TheMovie1.dll
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\bin\Debug\netcoreapp3.1\TheMovie1.pdb
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\obj\Debug\netcoreapp3.1\TheMovie1.dll
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\obj\Debug\netcoreapp3.1\TheMovie1.pdb
+C:\Users\guyea\source\repos\TheMovie1\TheMovie1\obj\Debug\netcoreapp3.1\TheMovie1.genruntimeconfig.cache
