@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guyea\\source\\repos\\TheMovie2\\TheMovie2\\TheMovie2.csproj": {}
+    "C:\\Users\\guyea\\OneDrive\\Desktop\\Lab10\\TheMovie2\\TheMovie2\\TheMovie2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guyea\\source\\repos\\TheMovie2\\TheMovie2\\TheMovie2.csproj": {
+    "C:\\Users\\guyea\\OneDrive\\Desktop\\Lab10\\TheMovie2\\TheMovie2\\TheMovie2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guyea\\source\\repos\\TheMovie2\\TheMovie2\\TheMovie2.csproj",
+        "projectUniqueName": "C:\\Users\\guyea\\OneDrive\\Desktop\\Lab10\\TheMovie2\\TheMovie2\\TheMovie2.csproj",
         "projectName": "TheMovie2",
-        "projectPath": "C:\\Users\\guyea\\source\\repos\\TheMovie2\\TheMovie2\\TheMovie2.csproj",
+        "projectPath": "C:\\Users\\guyea\\OneDrive\\Desktop\\Lab10\\TheMovie2\\TheMovie2\\TheMovie2.csproj",
         "packagesPath": "C:\\Users\\guyea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guyea\\source\\repos\\TheMovie2\\TheMovie2\\obj\\",
+        "outputPath": "C:\\Users\\guyea\\OneDrive\\Desktop\\Lab10\\TheMovie2\\TheMovie2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guyea\\AppData\\Roaming\\NuGet\\NuGet.Config",

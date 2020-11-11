@@ -14,8 +14,11 @@ namespace Deliverable11
 
             Console.WriteLine("Welcome to the Movie List Appliaction!");
             Console.WriteLine("There are 10 Movies in this list.");
+            
+            while (true)
+            { 
 
-            Console.WriteLine("What category are you interested in: Enter Number 1-4?");
+            Console.WriteLine("What category are you interested in:");
             Console.WriteLine("Horror");
             Console.WriteLine("Drama");
             Console.WriteLine("Sci-Fi");
@@ -53,17 +56,24 @@ namespace Deliverable11
             allMovies.Add(theTS3);
             allMovies.Add(theTS4);
 
+                
 
-            
+                Console.WriteLine("Do ytou want to continue? (Y/N)");
+                string UserInput2 = Console.ReadLine();
 
-            foreach (Movie currentMovie in allMovies)
-            {
-                if (currentMovie.getCategory() == mySearchString)
+                if (UserInput2 == "N" || UserInput2 == "n")
+                    break;
+
+                foreach (Movie currentMovie in allMovies)
                 {
-                    Console.WriteLine(currentMovie.getTitle());
-                }
+                    if (currentMovie.getCategory() == mySearchString)
+                    {
+                        Console.WriteLine(currentMovie.getTitle());
+                    }
 
-               
+                    
+
+                }
 
             }
 
